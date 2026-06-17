@@ -1,0 +1,19 @@
+{
+  "name": "共創OS-NEXT — 共創DX人材育成OS",
+  "short_name": "共創OS-NEXT",
+  "description": "異業種をつなぐ トリガー・アクション 共創DXプラットフォーム。PoC生成・IP保護・マーケット連携を統合。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#dde6ee",
+  "theme_color": "#0a48b6",
+  "lang": "ja",
+  "dir": "ltr",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "./assets/images/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./assets/images/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./assets/images/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
